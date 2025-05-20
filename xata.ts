@@ -8,8 +8,7 @@ export type DatabaseSchema = {};
 const DatabaseClient = buildClient();
 
 const defaultOptions = {
-  databaseURL:
-    "https://Sarfaraz-Stark-s-workspace-irghlu.ap-southeast-2.xata.sh/db/snapcast",
+  databaseURL: process.env.DATABASE_URL,
   apiKey: process.env.XATA_API_KEY,
   branch: "main",
 };
