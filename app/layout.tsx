@@ -34,7 +34,6 @@ export const metadata: Metadata = {
     images: ["/assets/images/snapcast.png"],
     creator: "@sarfarazstark",
   },
-  themeColor: "#000000",
 };
 
 export default function Layout({
