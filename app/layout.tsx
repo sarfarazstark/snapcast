@@ -10,13 +10,13 @@ const geistKarla = Karla({
 
 export const metadata: Metadata = {
   title: "SnapCast",
-  description: "A Screen and Video Sharing App",
+  description: "Share your screen and videos effortlessly with SnapCast.",
   icons: {
     icon: "/assets/icons/logo.svg",
   },
   openGraph: {
     title: "SnapCast",
-    description: "A Screen and Video Sharing App",
+    description: "Share your screen and videos effortlessly with SnapCast.",
     url: "https://snapcast.studio",
     siteName: "SnapCast",
     images: [
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "SnapCast",
-    description: "A Screen and Video Sharing App",
+    description: "Share your screen and videos effortlessly with SnapCast.",
     images: ["/assets/images/snapcast.png"],
     creator: "@sarfarazstark",
   },
