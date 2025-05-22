@@ -553,7 +553,7 @@
     @apply flex flex-col gap-4;
 
     li {
-      @apply flex gap-2;
+      @apply flex gap-2 p-2 rounded-md transition-all duration-200 hover:bg-pink-10 cursor-pointer;
 
       h2 {
         @apply text-sm font-bold text-pink-100;
