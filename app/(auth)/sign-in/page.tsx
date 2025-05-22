@@ -33,20 +33,21 @@ const SignIn = () => {
               ))}
             </figure>
             <p>
-            SnapCast makes screen recording easy. From quick walkthroughs to
-              full presentations, it&apos;s fast, smooth, and shareable in seconds
+              SnapCast makes screen recording easy. From quick walkthroughs to
+              full presentations, it&apos;s fast, smooth, and shareable in
+              seconds
             </p>
             <article>
               <Image
-                src="/assets/images/jason.png"
+                src="/assets/images/sarfaraz.jpg"
                 alt="Jason"
                 width={64}
                 height={64}
                 className="rounded-full"
               />
               <div>
-                <h2>Jason Rivera</h2>
-                <p>Product Designer, NovaByte</p>
+                <h2>Sarfaraz Stark</h2>
+                <p>Full Stack Web Developer, Code5 2.0</p>
               </div>
             </article>
           </section>
